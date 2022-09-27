@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nerea.
 - 👀 I’m interested in Animal Ecology, Genetics, Statistics and Data Science
 - 👩‍🎓 I', a PhD student in the University of the Basque Country, researching the trophic ecology of the Notch Eared Bat.
-- 🌱 I’m currently learning Python🐍
+- 🌱 I’m currently learning Python🐍 (and how to use GitHub...) 
 - 📫 How to reach me ... nerea.vallejo@ehu.eus
 
 <!---
